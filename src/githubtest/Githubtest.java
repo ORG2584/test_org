@@ -18,4 +18,8 @@ public class Githubtest {
         // TODO code application logic here
     }
     
+    public static void get() {
+        System.out.println("Abcd");
+    }
+    
 }
